@@ -1,7 +1,7 @@
 # 🍔 Sabor da Praça - Sistema de Gestão para Lanchonete
 
 <p align="center">
-  <img src="designs/tela_login.png" alt="Logo Sabor da Praça" width="200"/>
+  <img src="logo.png" alt="Logo Sabor da Praça" width="200"/>
 </p>
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
