@@ -86,7 +86,7 @@ Menu principal com quatro grandes botões coloridos para acesso às principais f
 
 ### Gestão de Produtos
 <p align="center">
-  <img src="designs/tela_produtos.png" alt="Tela de Produtos" width="300"/>
+  <img src="tela_produtos.png" alt="Tela de Produtos" width="300"/>
 </p>
 Lista de produtos cadastrados com nome, preço e categoria, com botão para adicionar novos itens.
 
