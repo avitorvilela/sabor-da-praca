@@ -233,7 +233,7 @@ http://localhost:3000
 ## 👨‍💻 Equipe e Colaboradores
 
 ### Desenvolvedores
-- [Seu Nome](https://github.com/seu-usuario) - Desenvolvedor Principal
+- [Antônio Vilela](https://github.com/avitorvilela) - Desenvolvedor Principal
 
 ### Parceiros
 - **Lanchonete Sabor da Praça**
