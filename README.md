@@ -74,13 +74,13 @@ Este projeto vai além da simples digitalização de processos. Ele representa u
 
 ### Tela de Login
 <p align="center">
-  <img src="designs/tela_login.png" alt="Tela de Login" width="300"/>
+  <img src="tela_login.png" alt="Tela de Login" width="300"/>
 </p>
 Interface limpa com logo da lanchonete, campos para usuário e senha bem espaçados e botão grande de "ENTRAR".
 
 ### Dashboard Principal
 <p align="center">
-  <img src="designs/tela_dashboard.png" alt="Dashboard" width="300"/>
+  <img src="tela_dashboard.png" alt="Dashboard" width="300"/>
 </p>
 Menu principal com quatro grandes botões coloridos para acesso às principais funcionalidades.
 
@@ -92,19 +92,19 @@ Lista de produtos cadastrados com nome, preço e categoria, com botão para adic
 
 ### Controle de Estoque
 <p align="center">
-  <img src="designs/tela_estoque.png" alt="Tela de Estoque" width="300"/>
+  <img src="tela_estoque.png" alt="Tela de Estoque" width="300"/>
 </p>
 Controle visual de insumos com indicadores coloridos de nível para facilitar a identificação de itens que precisam de reposição.
 
 ### Registro de Vendas
 <p align="center">
-  <img src="designs/tela_vendas.png" alt="Tela de Vendas" width="300"/>
+  <img src="tela_vendas.png" alt="Tela de Vendas" width="300"/>
 </p>
 Interface para registro de pedidos com adição de produtos, ajuste de quantidades e visualização do valor total.
 
 ### Relatórios
 <p align="center">
-  <img src="designs/tela_relatorios.png" alt="Tela de Relatórios" width="300"/>
+  <img src="tela_relatorios.png" alt="Tela de Relatórios" width="300"/>
 </p>
 Acesso a diferentes tipos de relatórios em formato de cards e gráfico simplificado de vendas semanais.
 
